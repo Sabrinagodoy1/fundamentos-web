@@ -1,0 +1,58 @@
+
+/*estilo da pagina index*/
+h1{
+    color: rgba(233, 108, 150, 0.966);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    color: rgb(129, 0, 43);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: rgb(129, 0, 43);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    color: rgb(224, 0, 86);
+}
+.tmimg{
+    display: block;
+    block-size: 35px;
+}
+
+ul{
+    background-color: rgba(240, 84, 157, 0.938);
+    display: flex;
+    list-style: none;
+    margin: none;
+}
+a{
+    color: rgb(252, 166, 202);
+    margin-left: 30px;
+}
+label{
+    color: rgb(238, 132, 211);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-start;
+}
+.centro{
+    justify-content: center;
+}
+
+iframe{
+    display: block;
+    align-items: center;
+}
+footer{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
